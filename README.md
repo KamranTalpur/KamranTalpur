@@ -11,10 +11,9 @@ Currently learning Bash scripting, Linux automation, and building real-world too
 ### 🚀 Projects:
 - 🔐 Auto Git Push Tool
 - 📁 Linux Backup Script
-- 🧠 Cybersecurity Learning Toolkit (in progress)
 
 ### 🎯 Goals:
-- MS in Cybersecurity
+- MS in Computer Science
 - Freelancing in Linux Automation
 
 📧 kamrantalpur646@gmail.com
