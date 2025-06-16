@@ -1,16 +1,20 @@
-## Hi there 👋
+###Aslam u Alaikum! I'm Kamran 👋
+I'm a Physics graduate from Badin, Pakistan 🇵🇰 turned Linux & Cybersecurity enthusiast.  
+Currently learning Bash scripting, Linux automation, and building real-world tools.  
 
-<!--
-**KamranTalpur/KamranTalpur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Skills:
+- Linux CLI, Bash scripting 🐧
+- Git & GitHub 🌀
+- Python 
+- Automation tools 🛠
 
-Here are some ideas to get you started:
+### 🚀 Projects:
+- 🔐 Auto Git Push Tool
+- 📁 Linux Backup Script
+- 🧠 Cybersecurity Learning Toolkit (in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Goals:
+- MS in Cybersecurity
+- Freelancing in Linux Automation
+
+📧 kamrantalpur646@gmail.com
