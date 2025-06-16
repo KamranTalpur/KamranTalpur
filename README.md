@@ -1,5 +1,5 @@
 ###Aslam u Alaikum! I'm Kamran 👋
-I'm a Physics graduate from Badin, Pakistan 🇵🇰 turned Linux & Cybersecurity enthusiast.  
+I'm a Physics graduate from Badin, Pakistan 🇵🇰 turned Linux & DevOps enthusiast.  
 Currently learning Bash scripting, Linux automation, and building real-world tools.  
 
 ### 🛠 Skills:
