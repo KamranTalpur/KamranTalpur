@@ -1,5 +1,5 @@
 ###Aslam u Alaikum! I'm Kamran 👋
-I'm a Physics graduate from Badin, Pakistan 🇵🇰 turned Linux & DevOps enthusiast.  
+I'm a Physics graduate from Badin, Pakistan 🇵🇰 turned Linux & Cybersecurity enthusiast.  
 Currently learning Bash scripting, Linux automation, and building real-world tools.  
 
 ### 🛠 Skills:
@@ -10,10 +10,9 @@ Currently learning Bash scripting, Linux automation, and building real-world too
 
 ### 🚀 Projects:
 - 🔐 Auto Git Push Tool
-- 📁 Linux Backup Script
+- 🔐 Sytem Health Check Tool 
 
 ### 🎯 Goals:
-- MS in Computer Science
-- Freelancing in Linux Automation
+- MS in Cybersecurity
 
 📧 kamrantalpur646@gmail.com
