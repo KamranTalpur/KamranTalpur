@@ -1,18 +1,21 @@
-###Aslam u Alaikum! I'm Kamran 👋
-I'm a Physics graduate from Badin, Pakistan 🇵🇰 turned Linux & Cybersecurity enthusiast.  
-Currently learning Bash scripting, Linux automation, and building real-world tools.  
+### Aslam u Alaikum! I'm Kamran 👋  
+I'm a Physics graduate from Badin, Pakistan 🇵🇰, currently pursuing my **MS in Software Engineering**.  
+I’m passionate about building tools, automating workflows, and writing clean code that solves real-world problems.
 
 ### 🛠 Skills:
-- Linux CLI, Bash scripting 🐧
-- Git & GitHub 🌀
-- Python 
-- Automation tools 🛠
+- Linux CLI, Bash scripting 🐧  
+- Git & GitHub 🌀  
+- Python  
+- HTML, CSS & JavaScript  
+- Automation tools 🛠  
 
 ### 🚀 Projects:
-- 🔐 Auto Git Push Tool
-- 🔐 Sytem Health Check Tool 
+- 🔄 Auto Git Push Tool  
+- 💻 System Health Check Tool  
+- 🌐 Single Page Portfolio Website  
+- 📦 GitHub Final Project (IBM Git & GitHub Course)
 
 ### 🎯 Goals:
-- MS in Cybersecurity
+- To become a skilled software engineer focused on practical, real-world development  
 
 📧 kamrantalpur646@gmail.com
