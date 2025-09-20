@@ -6,13 +6,15 @@ I’m passionate about building tools, automating workflows, and writing clean c
 - Linux CLI, Bash scripting 🐧  
 - Git & GitHub 🌀  
 - Python  
-- HTML, CSS & JavaScript  
+- HTML, CSS & JavaScript
+- React.js
+- Express & node.js
 - Automation tools 🛠  
 
 ### 🚀 Projects:
 - 🔄 Auto Git Push Tool  
 - 💻 System Health Check Tool  
-- 🌐 Single Page Portfolio Website  
+- 🌐 Portfolio Website  
 - 📦 GitHub Final Project (IBM Git & GitHub Course)
 
 ### 🎯 Goals:
