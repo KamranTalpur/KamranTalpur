@@ -3,12 +3,12 @@ I'm a Physics graduate from Badin, Pakistan 🇵🇰, currently pursuing my **MS
 I like building web applications.
 
 ### 🛠 Skills:
-- Linux CLI, Bash scripting 🐧  
-- Git & GitHub 🌀  
-- Python  
 - HTML, CSS & JavaScript
 - React.js
 - Express & node.js
+- Git & GitHub 🌀
+- Python  
+- Linux CLI, Bash scripting 🐧  
 
 ### 🚀 Projects:
 - e-PlantShopping Website (React.js)(Only Working Frontend)
