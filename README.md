@@ -14,6 +14,7 @@ I like building web applications.
 - e-PlantShopping Website (React.js)(Only Working Frontend)
 - expressBook Review App (Express.js & Node.js)(Only Working Backend)(Checked the responses with Postman)
 - Animated Website (HTML, CSS & JavaScript)
+- Expense Manager App (MongoDB, Express.js, React.js and Node.js)(Work in Progress)
 
 ### 🎯 Goals:
 - To become a skilled software engineer focused on practical, real-world development  
