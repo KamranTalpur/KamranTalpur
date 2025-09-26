@@ -1,6 +1,6 @@
 ### Aslam u Alaikum! I'm Kamran 👋  
 I'm a Physics graduate from Badin, Pakistan 🇵🇰, currently pursuing my **MS in Software Engineering**.  
-I’m passionate about building tools, automating workflows, and writing clean code that solves real-world problems.
+I like building web applications.
 
 ### 🛠 Skills:
 - Linux CLI, Bash scripting 🐧  
@@ -9,13 +9,11 @@ I’m passionate about building tools, automating workflows, and writing clean c
 - HTML, CSS & JavaScript
 - React.js
 - Express & node.js
-- Automation tools 🛠  
 
 ### 🚀 Projects:
-- 🔄 Auto Git Push Tool  
-- 💻 System Health Check Tool  
-- 🌐 Portfolio Website  
-- 📦 GitHub Final Project (IBM Git & GitHub Course)
+- e-PlantShopping Website (React.js)(Only Working Frontend)
+- Express-Messaging App (Express.js & Node.js)(Only Working Backend)(Checked the responses with Postman)
+- Animated Website (HTML, CSS & JavaScript)
 
 ### 🎯 Goals:
 - To become a skilled software engineer focused on practical, real-world development  
