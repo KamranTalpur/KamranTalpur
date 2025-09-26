@@ -12,7 +12,7 @@ I like building web applications.
 
 ### 🚀 Projects:
 - e-PlantShopping Website (React.js)(Only Working Frontend)
-- Express-Messaging App (Express.js & Node.js)(Only Working Backend)(Checked the responses with Postman)
+- expressBook Review App (Express.js & Node.js)(Only Working Backend)(Checked the responses with Postman)
 - Animated Website (HTML, CSS & JavaScript)
 
 ### 🎯 Goals:
