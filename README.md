@@ -11,6 +11,7 @@ I like building web applications.
 - Linux CLI, Bash scripting 🐧  
 
 ### 🚀 Projects:
+- Capistor Website (Live at capistor.com)
 - e-PlantShopping Website (React.js)(Only Working Frontend)
 - expressBook Review App (Express.js & Node.js)(Only Working Backend)(Checked the responses with Postman)
 - Animated Website (HTML, CSS & JavaScript)
